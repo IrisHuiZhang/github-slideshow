@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our GitHub Iris slide!"
 ---
-This is IrisHuiZhang's slike
+This is my awesome slide
 Use the left arrow to go back!
